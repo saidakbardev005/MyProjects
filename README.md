@@ -1,1 +1,1 @@
-# MyProjects
+Data Science and Artifical Intelligence  
